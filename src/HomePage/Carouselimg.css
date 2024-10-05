@@ -1,0 +1,27 @@
+.carousel_div {
+  width: 892px;
+  height: 344px;
+
+  opacity: 0px;
+  background: rgba(0, 0, 0, 1);
+  color: aliceblue;
+  display: flex;
+}
+.block {
+  display: block;
+  margin: 55px 20px 40px 65px;
+}
+
+.new {
+  width: 190px;
+  height: 49px;
+
+  display: flex;
+  opacity: 0px;
+  margin-bottom: 20px;
+}
+#size {
+  font-size: 15px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,24 @@
+.error_div {
+  width: 829px;
+  height: 179px;
+
+  margin-top: 257px;
+}
+.error_div h1 {
+  font-size: 120px;
+  line-height: 115px;
+}
+.error_div p {
+  padding: 20px 0px 0px 0px;
+}
+
+#backto_home {
+  width: 254px;
+  height: 56px;
+  margin-top: 40px;
+  padding: 16px 48px 16px 48px;
+  background-color: rgba(219, 68, 68, 1);
+  border: none;
+  color: white;
+  border-radius: 4px;
+}

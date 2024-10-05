@@ -1,0 +1,21 @@
+/*{.vertical_line {
+  border-left: 1.5px solid rgb(202, 202, 202);
+  height: 384px;
+  margin-left: 1px;
+}
+}*/
+.carousel .carousel-indicators button {
+  background-color: rgba(219, 68, 68, 1);
+
+  border: 3px solid rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.exclusive {
+  height: 344px;
+  width: 217px;
+  margin-left: 135px;
+  border: 2px solid rgb(157, 44, 44);
+}

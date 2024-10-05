@@ -1,0 +1,23 @@
+item_1 {
+  width: 308px;
+  height: 493px;
+  top: 666px;
+  left: 135px;
+  gap: 40px;
+  opacity: 0px;
+}
+item_1_pic {
+  width: Fixed (1, 308px) px;
+  height: 350px;
+  gap: 30px;
+  display: flex;
+}
+off_percentage {
+  width: 55px;
+  height: 26px;
+  margin-top: 12px;
+  margin-left: 12px;
+  padding: 4px 12px 4px 12px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+}
